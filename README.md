@@ -1,0 +1,2 @@
+# mexbot
+Josh Trading bot
